@@ -7,4 +7,6 @@ Transfer this directly to your TI-84 CE through TI-Connect CE, backwards compata
 
 Contains the quadratic formula, complete triangle solving, 3D volume, Trig, Prime factorization, pythagorean theorem, Summations, and Radical Simp
 
+Credit for Radical Simp and Summations goes to github.com/brianzjk
+
 Note: only works on 5.3.1 or later, which is the version Mathcounts calculators are in
